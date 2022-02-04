@@ -1,1 +1,1 @@
-# awesome-a11y
+# awesome-resources
